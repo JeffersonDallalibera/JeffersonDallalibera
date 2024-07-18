@@ -30,6 +30,9 @@
 <h2 align="center">🔥 Algumas coisas que eu sei 🔥</h2>
 <br>
 <p align="center">
+  <code><img title="Java" height="25" src="images/java.svg"></code>
+  <code><img title="SpringBoot" height="25" src="images/spring.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="ADVPL" height="25" src="images/totvs.png"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
@@ -45,6 +48,7 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="TypeScript" height="25" src="images/typescript.png"></code>
+  
 
 </p>
 <hr>
