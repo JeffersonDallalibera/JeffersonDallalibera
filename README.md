@@ -32,14 +32,6 @@ Olá! Me chamo **Jefferson Miguel Dallalibera**, sou um desenvolvedor apaixonado
 🎓 **Bacharel em Administração** — SENAI Chapecó  
 🚀 **Pós-graduando** em *Arquitetura de Software e Inteligência Artificial*
 
-<br>
-
-### 🤖 Comunidade & Ecossistema
-
-💡 Vivência ativa em ecossistemas de inovação — **I.nova** & **InovAtiva**  
-🧠 Engajado em comunidades e projetos de IA — **SCTEC**  
-🌐 Participante ativo de eventos tech — **Latinoware**
-
 </div>
 
 <br>
@@ -94,18 +86,14 @@ Olá! Me chamo **Jefferson Miguel Dallalibera**, sou um desenvolvedor apaixonado
         </a>
       </td>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonDallalibera&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" width="400" alt="Top Languages" />
-        </a>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeffersonDallalibera&theme=tokyonight" width="400" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  
+
   <br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JeffersonDallalibera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="815" alt="GitHub Stats" />
-  </a>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeffersonDallalibera&theme=tokyonight" width="815" alt="GitHub Profile Details" />
 
   <br><br>
 
