@@ -78,26 +78,20 @@ Olá! Me chamo **Jefferson Miguel Dallalibera**, sou um desenvolvedor apaixonado
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=JeffersonDallalibera&theme=tokyonight&hide_border=true" width="400" alt="Streak Stats" />
-        </a>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeffersonDallalibera&theme=tokyonight" width="400" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeffersonDallalibera&theme=tokyonight" width="815" alt="GitHub Profile Details" />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=JeffersonDallalibera&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+  </a>
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeffersonDallalibera&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeffersonDallalibera&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
+  <br>
+
+  <img src="https://img.shields.io/github/followers/JeffersonDallalibera?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/JeffersonDallalibera?label=Stars&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Stars" />
+
 </div>
 
 <br>
