@@ -90,12 +90,12 @@ Olá! Me chamo **Jefferson Miguel Dallalibera**, sou um desenvolvedor apaixonado
     <tr>
       <td>
         <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeffersonDallalibera&theme=tokyonight&hide_border=true" width="400" alt="Streak Stats" />
+          <img src="https://streak-stats.demolab.com/?user=JeffersonDallalibera&theme=tokyonight&hide_border=true" width="400" alt="Streak Stats" />
         </a>
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonDallalibera&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" width="400" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonDallalibera&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" width="400" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -104,12 +104,12 @@ Olá! Me chamo **Jefferson Miguel Dallalibera**, sou um desenvolvedor apaixonado
   <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JeffersonDallalibera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="815" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JeffersonDallalibera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="815" alt="GitHub Stats" />
   </a>
 
   <br><br>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=JeffersonDallalibera&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeffersonDallalibera&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
