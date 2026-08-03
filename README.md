@@ -24,26 +24,23 @@ Olá! Me chamo **Jefferson Miguel Dallalibera**, sou um desenvolvedor apaixonado
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Formação & Especializações</h3>
-      <ul>
-        <li>🎓 <b>Bacharel em Sistemas de Informação</b> (UNOESC Chapecó)</li>
-        <li>🎓 <b>Bacharel em Administração</b> (SENAI Chapecó)</li>
-        <li>🚀 <b>Pós-graduando</b> em <i>Arquitetura de Software e Inteligência Artificial</i></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Comunidade & Ecossistema</h3>
-      <ul>
-        <li>💡 Vivência ativa em ecossistemas de inovação (<b>I.nova</b>, <b>InovAtiva</b>)</li>
-        <li>🧠 Engajado em comunidades de IA (<b>SCTEC</b>)</li>
-        <li>🌐 Participante ativo de eventos tech (<b>Latinoware</b>)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🎓 Formação & Especializações
+
+🎓 **Bacharel em Sistemas de Informação** — UNOESC Chapecó  
+🎓 **Bacharel em Administração** — SENAI Chapecó  
+🚀 **Pós-graduando** em *Arquitetura de Software e Inteligência Artificial*
+
+<br>
+
+### 🤖 Comunidade & Ecossistema
+
+💡 Vivência ativa em ecossistemas de inovação — **I.nova** & **InovAtiva**  
+🧠 Engajado em comunidades e projetos de IA — **SCTEC**  
+🌐 Participante ativo de eventos tech — **Latinoware**
+
+</div>
 
 <br>
 
